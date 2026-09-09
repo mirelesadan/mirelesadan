@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I develop scientific software for reconstructing, analyzing, and accelerating high-dimensional experimental and simulation data. My projects span 4D-STEM analysis, correlative 3D reconstruction, CUDA C++ performance engineering, and reinforcement-learning control. Across these projects, I emphasize physical consistency, numerical validation, reproducibility, visualization, and carefully supervised agent-assisted development.
 <!--
 **mirelesadan/mirelesadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
