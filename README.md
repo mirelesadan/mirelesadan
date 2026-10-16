@@ -12,8 +12,8 @@ I build validated, reusable workflows—from multidimensional imaging and physic
 * **[4Denoise](https://github.com/mirelesadan/4Denoise)**
   An open-source Python package for processing and visualizing 4D-STEM data. It supports preprocessing, Bragg-peak analysis, crystallographic tilt inference, 3D topography reconstruction, tilt-corrected strain mapping, and interactive visualization. The package supports my first-author *Science Advances* study, [“Strain Mapping of Three-Dimensionally Structured Two-Dimensional Materials”](https://doi.org/10.1126/sciadv.adz7908).
 
-* **[Generalized C-MEP](https://github.com/mirelesadan/generalized-CMEP)**
-  A reusable Python workflow for correlative multislice electron ptychography, including physically calibrated 3D volumes, registration of complementary datasets, relative overlap scoring, subvoxel atom localization, and simulation-based validation with ASE and abTEM.
+* **[Multi-view MEP](https://github.com/mirelesadan/multiview-MEP)**
+  A reusable Python workflow for multi-view multislice electron ptychography, including physically calibrated 3D volumes, registration of complementary datasets, relative overlap scoring, subvoxel atom localization, and simulation-based validation with ASE and abTEM.
 
 * **[CUDA C++ Performance Engineering](https://github.com/mirelesadan/CUDA-Cpp-Performance-Engineering)** *(in active development)*
   A correctness-first portfolio for scientific denoising with C++17, OpenMP, CUDA, and Python bindings validated against reference outputs. Benchmarks separate kernel performance from transfer-inclusive costs and document retained and rejected optimizations.
